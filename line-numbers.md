@@ -1,6 +1,6 @@
 #### 1 Hello, I am Kelly. :)
 #### 2
-#### 3 Kelly was here too! 
+#### 3 jefferson was here 
 #### 4
 #### 5
 #### 6
