@@ -1,6 +1,6 @@
-#### 1
+#### 1 Hello, I am Kelly. :)
 #### 2
-#### 3
+#### 3 Kelly was here too! 
 #### 4
 #### 5
 #### 6
